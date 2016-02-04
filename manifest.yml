@@ -1,0 +1,9 @@
+
+---
+applications:
+  - name: hello-world123
+    memory: 256M
+    instances: 5
+services:
+  - turtle1
+  - lemur1
